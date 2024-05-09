@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahil07codac
 - 👀 I’m interested in data analystics.data science ,Buisness intelligence
-- 🌱 I’m Proficient in python, sql, excel, tableau
+- 🌱 I’m Proficient in Python, SQL, Excel, Tableau
 
 
 <!---
